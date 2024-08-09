@@ -14,7 +14,7 @@ export const logo: Map = {
 };
 
 export enum Constants {
-  USERNAME = "Your Name",
+  USERNAME = "Myra Guzman",
 }
 
 // "project name 1": ProjectImg
